@@ -34,4 +34,4 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 Deciphering is done in reverse, with a right shift of 3.
 
 
-Overall we worked on ecryption and decryption based on plainText or cipherText.
+Overall we worked on encryption and decryption based on plainText or cipherText.
